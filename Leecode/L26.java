@@ -14,5 +14,6 @@ public class L26{
         int[] nums = new int[]{1,2};
         int result = removeDuplicates(nums);
         System.out.println(result);
+        System.out.println("这个世界很大，我想去看看");
     }
 }
